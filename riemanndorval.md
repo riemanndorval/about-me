@@ -3,3 +3,4 @@ Last Name: Dorval
 Favorite animal: dog
 Favorite color: Bleu
 Copyright: my rights
+Fav color: red
